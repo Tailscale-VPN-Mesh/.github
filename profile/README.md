@@ -53,7 +53,7 @@ For teams with many devices, Tailscale device access turns scattered links into 
 - **Agencies** - Tailscale device access supports client environments.
 - **Enterprise** - Tailscale mesh VPN scales across regions and clouds.
 
-![Tailscale](https://avatars.mds.yandex.net/i?id=7d119d3724c91d77b7e085df0bbad74cbc0756b0-5228520-images-thumbs&n=13)
+![Tailscale](https://i.pinimg.com/originals/f2/bd/82/f2bd8297e94c7c6838871ad1c14e693b.png)
 
 ## Requirements for Tailscale
 
